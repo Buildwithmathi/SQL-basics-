@@ -7,6 +7,13 @@ This repository contains my SQL learning journey and practice programs. I am lea
 
 ## Topics Learned
 
+### Student Table
+- Rollno
+- Name
+- MobileNumber
+- Course
+- College 
+
 ### Employee Table
 - EmployeeID
 - Name
@@ -21,11 +28,16 @@ This repository contains my SQL learning journey and practice programs. I am lea
 
 ## Programs Included
 
+### Student Table 
+- Created a Student Tabke
+- Inserted a Students records
+- Retrieved data using SELECT 
+
+
 ### Employee Table
 - Created an Employee table
 - Inserted employee records
 - Retrieved data using SELECT
-- Sorted records using ORDER BY
 
 ### Teachers Table
 - Created a Teachers table
@@ -40,11 +52,10 @@ This repository contains my SQL learning journey and practice programs. I am lea
 - Defined columns with appropriate data types
 - Inserted records using INSERT INTO
 - Retrieved records using SELECT
-- Sorted records using ORDER BY
 - Understood the structure of SQL tables
 - Practiced basic database management operations
 
 
-##Author
+## Author
 
 Sumathi
