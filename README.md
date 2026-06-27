@@ -26,6 +26,8 @@ This repository contains my SQL learning journey and practice programs. I am lea
 - Subject
 - Experience
 
+
+
 ## Programs Included
 
 ### Student Table 
@@ -54,6 +56,9 @@ This repository contains my SQL learning journey and practice programs. I am lea
 - Retrieved records using SELECT
 - Understood the structure of SQL tables
 - Practiced basic database management operations
+
+This repository has been updated with the Library Table SQL program. It contains the "CREATE TABLE" statement for a library database, demonstrating the use of SQL syntax, appropriate data types, and a primary key. This update is part of my SQL Basics practice to improve database design and table creation skills.
+
 
 
 ## Author
