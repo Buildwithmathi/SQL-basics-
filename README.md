@@ -59,6 +59,24 @@ This repository contains my SQL learning journey and practice programs. I am lea
 
 This repository has been updated with the Library Table SQL program. It contains the "CREATE TABLE" statement for a library database, demonstrating the use of SQL syntax, appropriate data types, and a primary key. This update is part of my SQL Basics practice to improve database design and table creation skills.
 
+### Hospital Table - Description
+
+This SQL project demonstrates how to create and manage a simple Hospital table using SQL.
+
+The table stores patient details such as:
+- Patient ID
+- Patient Name
+- Age
+- Disease
+- Doctor
+
+The project includes:
+- CREATE TABLE statement to create the Hospital table.
+- INSERT INTO statement to add sample patient records.
+- SELECT * query to display all the data stored in the table.
+
+This project helps beginners understand basic SQL concepts like table creation, data insertion, and data retrieval.
+
 
 
 ## Author
